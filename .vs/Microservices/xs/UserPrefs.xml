@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6CD138F2-487E-4183-9E15-DB1F6998B537}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UserService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuthService/Data/AuthService.cs">
+    <Files>
+      <File FileName="AuthService/Program.cs" Line="20" Column="1" />
+      <File FileName="AuthService/Entity/RefreshToken.cs" Line="1" Column="1" />
+      <File FileName="AuthService/Entity/TokenResponse.cs" Line="9" Column="2" />
+      <File FileName="AuthService/Entity/User.cs" Line="1" Column="1" />
+      <File FileName="AuthService/Data/AuthService.cs" Line="77" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Microservices" expanded="True">
+            <Node name="AuthService" expanded="True" selected="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Entity" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
